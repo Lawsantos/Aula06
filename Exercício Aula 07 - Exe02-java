@@ -21,7 +21,7 @@ public class Exe02 {
 		double nota5 = entrada.nextDouble();		
 		
 		
-		System.out.println("Sua média é: " + (nota1 +nota2+ nota3 + nota4 + nota5) / 5);
+		System.out.println("Sua mÃ©dia Ã©: " + (nota1 +nota2+ nota3 + nota4 + nota5) / 5);
 		
 		}
 		
