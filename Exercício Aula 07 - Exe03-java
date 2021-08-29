@@ -9,11 +9,11 @@ public class Exe03 {
 		System.out.print("Insira o valor da sua hora trabalhada: R$ ");
 		double slPorHora = digite.nextDouble();
 		
-		System.out.print("Insira quantas horas você trabalhou esse mês: ");
+		System.out.print("Insira quantas horas vocÃª trabalhou esse mÃªs: ");
 		double hTrabMes = digite.nextDouble();
 		
 		double totSal = slPorHora * hTrabMes;
-		System.out.printf("O total de seu salário mensal foi de: R$ %.2f", totSal);
+		System.out.printf("O total de seu salÃ¡rio mensal foi de: R$ %.2f", totSal);
 
 	}
 
