@@ -9,7 +9,7 @@ public class Operadores {
 		System.out.println("Insira o segundo valor: ");
 		int v2 = digite.nextInt();
 		int res = v1 + v2;
-		System.out.println("O total de sua soma é: "+ res);
+		System.out.println("O total de sua soma Ã©: "+ res);
 		
 				
 	}
