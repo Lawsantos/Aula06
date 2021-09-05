@@ -29,7 +29,7 @@ public class Exercicio02 {
 			
 			if(segNum == num01 + 1) {
 				
-				System.out.println("Não há intervalo entre estes números! ");
+				System.out.println("NÃ£o hÃ¡ intervalo entre estes nÃºmeros! ");
 				break;
 			}
 			
