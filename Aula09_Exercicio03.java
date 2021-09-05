@@ -23,7 +23,7 @@ public class Exercicio03 {
 			}
 		}
 		
-		System.out.println("O maior número digitado foi " + numeroTeste);		
+		System.out.println("O maior nÃºmero digitado foi " + numeroTeste);		
 	}
 
 }
