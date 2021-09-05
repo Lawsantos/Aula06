@@ -10,17 +10,17 @@ public class Exercicio01 {
 		
 		while (valorValido) {	
 			
-			System.out.println("Digite um número de 0 a 10: ");
+			System.out.println("Digite um nÃºmero de 0 a 10: ");
 			
 			int numero = entrada.nextInt();
 			
 			if (numero < 0 || numero > 10) {
-				System.out.println("Valor inválido");
+				System.out.println("Valor invÃ¡lido");
 				continue;
 				
 			}else {
 				
-				System.out.println("Seu número é: " + numero);
+				System.out.println("Seu nÃºmero Ã©: " + numero);
 				valorValido = false;
 			}			
 			
